@@ -16,15 +16,17 @@ Keen-UI | [Github][11] - [Docs][12] | PC | en
 vue-mui | [Github][13] - [Docs][14] | Mobile | en
 vue-antd | [Github][15] - [Docs][16] | Mobile | zh
 N3-components | [Github][17] - [Docs][18] | PC | zh
+vum | [Github][19] - [Docs][20] | Mobile | en
 
 ## Vue2.0 UI
 
 name|address|log| language
 ---|---|---|---
-element-ui |[Github][19] - [Docs][20]| PC | zh/en etc.
-vux | [Github][21] - [Docs][22] | Mobile | zh
-mint-ui | [Github][23] - [Docs][24] | Mobile | zh/en
-
+element-ui |[Github][21] - [Docs][22]| PC | zh/en etc.
+vux | [Github][23] - [Docs][24] | Mobile | zh
+mint-ui | [Github][25] - [Docs][26] | Mobile | zh/en
+muse-ui | [Github][27] - [Docs][28] | Mobile | zh/en
+vue-blu | [Github][29] - [Docs][30] | PC | zh
 
 
   [1]: https://github.com/FE-Driver/vue-beauty
@@ -45,9 +47,15 @@ mint-ui | [Github][23] - [Docs][24] | Mobile | zh/en
   [16]: http://okoala.github.io/vue-antd/#!/components
   [17]: http://n3ui.org/v2.html
   [18]: http://n3ui.org/v2.html
-  [19]: https://github.com/ElemeFE/element
-  [20]: http://element.eleme.io/#/zh-CN
-  [21]: https://github.com/airyland/vux
-  [22]: https://vux.li/#/
-  [23]: https://github.com/ElemeFE/mint-ui
-  [24]: http://mint-ui.github.io/docs/#!/
+  [19]: https://github.com/vum-team/vum
+  [20]: http://getvum.com/
+  [21]: https://github.com/ElemeFE/element
+  [22]: http://element.eleme.io/#/zh-CN
+  [23]: https://github.com/airyland/vux
+  [24]: https://vux.li/#/
+  [25]: https://github.com/ElemeFE/mint-ui
+  [26]: http://mint-ui.github.io/docs/#!/
+  [27]: https://github.com/museui/muse-ui
+  [28]: https://museui.github.io/#/index
+  [29]: https://github.com/chenz24/vue-blu
+  [30]: https://chenz24.github.io/vue-blu/#/
