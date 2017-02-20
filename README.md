@@ -23,7 +23,7 @@ vum | [Github][19] - [Docs][20] | Mobile | en
 name|address|log| language
 ---|---|---|---
 element-ui |[Github][21] - [Docs][22]| PC | zh/en etc.
-vux | [Github][23] - [Docs][24] | Mobile | zh
+vux | [Github][23] - [Docs][24] | Mobile | zh      
 mint-ui | [Github][25] - [Docs][26] | Mobile | zh/en
 muse-ui | [Github][27] - [Docs][28] | Mobile | zh/en
 vue-blu | [Github][29] - [Docs][30] | PC | zh
